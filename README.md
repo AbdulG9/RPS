@@ -14,13 +14,13 @@ To get started with the game, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/rock-paper-scissors.git
+   git clone https://github.com/AbdulG9/RPS
 2. Navigate into the project directory:
    ```bash
-   cd rock-paper-scissors
+   cd RPS
 3. Run the game:
    ```bash
-   python rock_paper_scissors.py
+   python RPS.py
 ## How to Play
 1. When the game starts, you'll be prompted to choose between Rock, Paper, or Scissors.
 2. After making your choice, the computer will randomly select one of the three options.
