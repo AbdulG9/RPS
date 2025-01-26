@@ -46,18 +46,21 @@ you choose: ROCK
 YOU got a point!!!
 SCORES:
  you: 1 computer: 0
+
 Enter your choice : r
 computer choose: PAPER
 you choose: ROCK
 Computer got a point!
 SCORES:
  you: 1 computer: 1
+
 Enter your choice : s
 computer choose: ROCK
 you choose: SCISSORS
 computer got a point!
 SCORES:
  you: 1 computer: 2
+
 Enter your choice : e
 *** YOU LOST THE GAME WITH 1 points***
 game exited succesfully!!!
